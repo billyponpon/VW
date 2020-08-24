@@ -82,11 +82,12 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Home | Vitality Wellness",
+        "meta_descr": "Your beauty and wellness is our priority. ",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/2539611-2000x1335.jpg"
       },
       "components": [
         {
